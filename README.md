@@ -1,7 +1,6 @@
 # mw-loader
 
 AngularJS module that give you a cool loader animation on an element.
-![Loader example](https://github.com/MrWook/mw-loader/blob/master/public/gif/mw-loader.gif)
 
 
 ## Requirements (tested in)
@@ -58,6 +57,9 @@ templateUrl           	| string    | mw-alert.html 		| set the template URL
 
 <a href='https://plnkr.co/edit/dS3jpBmmUW0LBaTVDA3t?p=preview' target='_blank'>View demo on Plunker</a>
 
+## Example
+
+![Loader example](https://github.com/MrWook/mw-loader/blob/master/public/gif/mw-loader.gif)
 
 ## Tasklist 
 - [ ] fix spelling, grammar mistakes
