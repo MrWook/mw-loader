@@ -1,11 +1,10 @@
 /**
- * @version v1.0.0
- * @link https://github.com/MrWook/mw-loader
- * @license MIT
- * Copyright (c) 2018 MrWook
- */
-'use strict';
-(function(ng, undefined){
+* @version v1.0.0
+* @link https://github.com/MrWook/mw-loader
+* @license MIT
+* Copyright (c) 2018} MrWook
+*/(function(angular, undefined){
+ 'use strict';
 angular.module('mw-loader', ['mw-loader-template']);
 angular.module('mw-loader').constant('mwLoaderConfig', {
 	parent_selector: 'body',
@@ -62,5 +61,5 @@ angular.module("mw-loader-template", []).run(["$templateCache", function($templa
 		"<div class=\"mw-loader\" ng-if=\"loader\"><div class=\"loader_1\"></div><div class=\"loader_text\">LOADING...</div><div class=\"loader_2\"></div><div class=\"loader_3\"></div></div>");
 }]);
 
-})();
+})(angular);
 //# sourceMappingURL=mw-loader.js.map

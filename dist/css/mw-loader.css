@@ -1,10 +1,9 @@
 /**
- * @version v1.0.0
- * @link https://github.com/MrWook/mw-loader
- * @license MIT
- * Copyright (c) 2018 MrWook
- */
-.mw-loader {
+* @version v1.0.0
+* @link https://github.com/MrWook/mw-loader
+* @license MIT
+* Copyright (c) 2018} MrWook
+*/.mw-loader {
   position: absolute;
   width: 200px;
   height: 200px;

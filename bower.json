@@ -1,12 +1,12 @@
 {
 	"name":        "mw-loader",
-	"version":     "1.0.0",
+	"version":     "1.0.1",
 	"description": "AngularJS module that give you a cool loader animation on an element",
 	"author":      "MrWook",
 	"license":     "MIT",
 	"homepage":    "https://github.com/MrWook/mw-loader",
 	"dependencies":{
-		"angular":        "^1.6.9"
+		"angular":"^1.7.2"
 	},
 	"ignore":      [
 		"**/.*",
