@@ -2,6 +2,8 @@
 [![codebeat badge](https://codebeat.co/badges/7586140d-0125-4933-bc7c-24f4bc849e91)](https://codebeat.co/projects/github-com-mrwook-mw-loader-master)
 [![dependencies Status](https://david-dm.org/MrWook/mw-loader/status.svg)](https://david-dm.org/MrWook/mw-loader)
 [![npm version](https://badge.fury.io/js/mw-loader.svg)](https://badge.fury.io/js/mw-loader)
+
+# This repository is no longer maintained.
 # mw-loader
 
 AngularJS module that give you a cool loader animation on an element.
